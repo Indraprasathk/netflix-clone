@@ -1,0 +1,54 @@
+.indra{
+    background-color: black;
+    opacity: 0.80;
+    width: 400px;
+    height: 400px;
+    margin-left: 600px;
+     position: relative;
+     top: 100px;
+}
+input{
+    background-color: white;
+    opacity: 0.99;
+    margin: 20px;
+    padding: 7px;
+    padding-right: 70px;
+    
+}
+.bike{
+    color: white;
+    background-color: red;
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 250px;
+    font-size: large;
+    padding: 7px;
+
+}
+.car{
+    margin-left: 40px;
+    margin-top: 150px;
+    padding: 15px;
+
+}
+.home{
+    margin-left: 40px;
+    padding: 15px;
+}
+.light{
+    color: white;
+    position: relative;
+    bottom: 300px;
+    left: 20px;
+
+}
+.kpr{
+     color: red;
+     font-size: xxx-large;
+     margin-left: 100px;
+}
+body{
+    background-image: url("C:/Users/INDRAPRASATH/Downloads/intro-import.jpg");
+    background-repeat: no-repeat;
+    background-size: 1550px;
+}

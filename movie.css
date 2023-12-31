@@ -1,0 +1,59 @@
+.n{
+    color: red;
+    width: 1500px;
+    position: relative;
+    bottom: 21px;
+    
+}
+.h{
+    color: white;
+    position: relative;
+    bottom: 320px;
+}
+.k{
+    color:white;
+    position: relative;
+    bottom: 110px;
+    
+}
+.d{
+    color: white;
+    position: relative;
+    bottom: 450px;
+    
+}
+.i{
+    color: white;
+    position: relative;
+    bottom: 300px;
+}
+.bb{
+    position: relative;
+    top: 600px;
+}
+video{
+    
+    position: relative;
+    top: 570px;
+
+}
+.nn{
+    position: relative;
+    top: 600px;
+}
+.mm{
+    position: relative;
+    top: 600px;
+}
+img{
+    width: 1500px;
+    height: 500px;
+    position: relative;
+    bottom: 950px;
+}
+
+body{
+    background-color: black;
+    
+}
+
